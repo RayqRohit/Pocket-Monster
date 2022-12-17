@@ -1,0 +1,275 @@
+.logo{
+   
+   padding-left: 1%;
+    font-weight: bold;
+    font-size: 1.5rem;
+
+}
+
+.nav-item{
+   /* font-family: Arial, Helvetica, sans-serif; */
+   font-family: 'montserrat';
+   padding-right: 4%;
+  
+  font-weight: bold;
+   font-size: 20px;
+}
+.carousel-item{
+    
+   
+    
+}
+
+.container{
+    padding-left: 6%;
+    padding-right: 6%;
+    padding-bottom: 1%;
+}
+.text{
+    font-family: 'Montserrat-Bold';
+    font-weight: bold;
+    font-size: 55px;
+    line-height: 1.2;
+    margin-bottom: 3rem;
+    text-align: center;
+   
+}
+
+.space{
+    padding-top: 2%;
+    padding-bottom: 1.5rem;
+}
+
+.trainer{
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.allign{
+  margin:auto;
+}
+.two-cards{
+    padding-left: 1%;
+    padding-right: 1%;
+    
+}
+.left-spacing{
+    margin-left: 14%;
+   
+}
+
+.right-spacing{
+    margin-left: 3%;
+}
+
+#features{
+    text-align: center;
+    padding-left: 9%;
+    padding-right: 9%;
+    padding-bottom: 6%;
+}
+
+.some{
+    padding-top: 4%;
+    padding-bottom: 2rem;
+    
+}
+.some-space{
+    font-size: 50px;
+    font-weight: bold;
+    padding-top: 1rem;
+}
+h3{
+    padding-top: 6px;
+}
+
+.text-box{
+    padding-top: 3%;
+    
+}
+
+.row-space{
+    
+    padding: 1% 9%;
+}
+
+.navbar{
+    display: flex;
+    background-color: black;
+    --bs-navbar-padding-y: 15px;
+}
+
+
+.small{
+    height: 900px;
+    object-fit: cover;
+}
+
+
+.object{
+    
+    height: 650px;
+    object-fit: cover;
+    border: solid 5px black;
+    
+    
+}
+
+#footer{
+    padding: 7% 10%;
+    text-align: center;
+    background-color: rgba(223, 219, 219, 0.2);
+    font-family: 'Montserrat', sans-serif;
+}
+
+.social-media{
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 20px;
+    padding-bottom: 35px;
+ }
+
+ .move-bottom{
+    padding-top: 1rem;
+    padding-bottom: 4px;
+ }
+
+.gap-2{
+    gap: 0.5rem!important;
+    
+}
+
+.space-btn{
+    margin-left: 0.5rem;
+}
+
+.modal-header{
+   
+    background-color: rgb(175, 173, 170);
+    
+}
+.modal-title{
+    text-align: center;
+    font-weight: bold;
+}
+
+.font{
+    font-weight: bold;
+    font-family: 'Montserrat';
+}
+
+.img-c{
+    object-fit: cover;
+    height: 310px;
+}
+
+.modal-body{
+    font-family: 'Montserrat';
+}
+
+.card-title{
+    font-family: 'Montserrat';
+    /* font-weight: bold; */
+    font-size: 1.6rem;
+}
+
+.card-text{
+    font-family: 'Montserrat';
+}
+
+/* .card-img-top{
+    
+}
+
+.card-img-top:hover{
+    transform: scale(1.1);
+} */
+
+.card{
+
+}
+
+.card:hover{
+    transform: scale(1.1);
+}
+
+#about-pokemon{
+    background-color: rgb(249, 248, 248);
+}
+
+.card {
+    padding-left: 0px;
+    padding-right: 0px;
+    box-shadow: 0 0px 20px 0 rgba(0,0,0,0.2);
+    background-color:rgba(165, 158, 158, 0.2) ;
+    transition: 0.3s;
+ }
+
+ .img-large{
+    object-fit: cover;
+    height: 359px;
+ }
+
+ 
+
+.colors{
+    background-color:rgba(240, 234, 234, 0.2) ;
+    box-shadow: 0 0px 20px 0 rgba(0,0,0,0.2);
+}
+
+.my-5 {
+    margin-top: 0rem!important;
+    margin-bottom: 0rem!important;
+    padding-top: 3rem;
+}
+
+
+.fonts{
+    font-family: 'Montserrat';
+}
+
+.nav-link{
+   
+}
+
+.nav-link:hover{
+
+    color:  #29fd53;
+    transform:scale(1.1);
+}
+
+.logo:hover{
+    color: rgb(231, 6, 6);
+}
+
+.header{
+    font-family: sans-serif;
+    font-weight: bold;
+    color: rgb(141, 142, 143);
+    font-weight: bold;
+   font-size: 3rem;
+   line-height: 1;
+}
+
+.subheader{
+    font-family: 'Montserrat';
+    color: grey;
+    line-height: 1.8;
+    font-weight:300;
+    font-size: 18px;
+}
+
+i{
+
+}
+
+i:hover {
+    
+   
+    -webkit-transform: scale(1.3);
+    -moz-transform: scale(1.4);
+    -o-transform: scale(1.4);
+    -ms-transform: scale(1.4);
+    transform: scale(1.3);
+}
+
